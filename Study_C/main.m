@@ -9,6 +9,6 @@
 #import <Foundation/Foundation.h>
 
 int main(int argc, const char * argv[]) {
-    printf("hahaha");
+    printf("都是坏人");
     return 0;
 }
