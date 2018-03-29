@@ -9,6 +9,6 @@
 #import <Foundation/Foundation.h>
 
 int main(int argc, const char * argv[]) {
-    
+    NSLog(@"刘亚平");
     return 0;
 }
