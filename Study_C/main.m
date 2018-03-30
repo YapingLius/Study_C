@@ -9,6 +9,6 @@
 #import <Foundation/Foundation.h>
 
 int main(int argc, const char * argv[]) {
-    printf("都是坏人");
+    printf("This is second day!");
     return 0;
 }
