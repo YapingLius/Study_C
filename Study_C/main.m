@@ -7,8 +7,13 @@
 //
 
 #import <Foundation/Foundation.h>
+#include "func_first_week.h"
+
 
 int main(int argc, const char * argv[]) {
-    printf("这里会有冲突");
+    
+    print_name();
+    
+    
     return 0;
 }
