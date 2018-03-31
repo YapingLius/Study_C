@@ -9,6 +9,6 @@
 #import <Foundation/Foundation.h>
 
 int main(int argc, const char * argv[]) {
-    printf("都是坏人");
+    printf("这里会有冲突");
     return 0;
 }
