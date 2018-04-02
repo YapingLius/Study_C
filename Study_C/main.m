@@ -11,6 +11,7 @@
 
 
 int main(int argc, const char * argv[]) { 
-    print_name();
+   // print_name();
+    gift();
     return 0;
 }
