@@ -17,5 +17,4 @@
 /**
  打印func模块的名字
  */
-void print_name(void);
 
