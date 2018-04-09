@@ -23,27 +23,6 @@ int main(int argc, const char * argv[]) {
    
     
     return 0;
-    
 }
-//    int count[10] = {24, 45, 74, 49, 80, 77, 68, 94, 40, 30};
-//    for (int i = 0; i < 9; i++) {
-//        for (int j = i ; j < 8; j--) {
-//            int temp;
-//            if (count[j]>count[j+1]) {
-//                temp =count[j] ;
-//                count[j]= count[j+1];
-//                count[j+1] = temp;
-//            }
-//
-//                    }
-//
-//    }
-//    for (int m =0; m<10; m++) {
-//        printf("%d ",count[m]);
-//    }
-//
-//
-//
-//    return 0;
-//}
+
 
