@@ -20,3 +20,6 @@
 void print_name(void);
 void gift(void);
 
+
+void print_hollow_diamond(int);
+void print_year();

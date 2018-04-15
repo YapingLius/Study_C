@@ -11,9 +11,10 @@
 
 
 
-int main(int argc, const char * argv[]) { 
+int main(int argc, const char * argv[]) {
+ //   print_hollow_diamond(10);
+    print_year();
     return 0;
-    
 }
 
 
