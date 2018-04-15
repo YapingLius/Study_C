@@ -15,9 +15,11 @@ void print_name() {
 void print_name_private() {
     printf("func_first_week of study\n");
 }
+
 void gift(void) {
     int feet ,fathoms;
     fathoms =2;
     feet = 6 * fathoms;
     printf("there are %d feet in %d fathoms!\n",feet,fathoms);
 }
+
