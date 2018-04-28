@@ -7,9 +7,6 @@
 //
 
 #include "func_first_week.h"
-
-
-
 void print_hollow_diamond(int length) {
     int width = length * 2 - 1;
     int height = width;
@@ -60,3 +57,11 @@ void gift(void) {
     printf("there are %d feet in %d fathoms!\n",feet,fathoms);
 }
 
+
+int sum(int begin, int end) {
+    if (begin < end) {
+        return sum(begin + 1, end) + begin;
+    } else {
+        return end;
+    }
+}

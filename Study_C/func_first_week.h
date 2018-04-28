@@ -19,7 +19,7 @@
  */
 void print_name(void);
 void gift(void);
-
-
-void print_hollow_diamond(int);
-void print_year();
+//void print_hollow_diamond(int);
+//void print_year();
+//void starbar(void);
+int sum(int, int);
